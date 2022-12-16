@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to right, #121212 75%, darkred 25%);
+    text-align:  center;
+    font-weight: bold;
+    color: #fff;
+
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+button {
+    background-color: darkred;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+}
+#save-btn {
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: darkgreen;
+    margin-top: 2rem;
+}
